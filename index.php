@@ -8,7 +8,7 @@
 </head>
 <body>
 <section class="forms-section">
-  <h1 class="section-title">APHILIATE LOGIN</h1>
+  <h1 class="section-title">AFFILIATE LOGIN</h1>
   <div class="forms">
     <div class="form-wrapper is-active">
       <button type="button" class="switcher switcher-login">
